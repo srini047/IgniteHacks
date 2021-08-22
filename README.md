@@ -28,10 +28,8 @@ Some sample ideas in the space are:
 
 ## Important Links:
 
-**GitHub:**
+**GitHub:**  https://github.com/srini047/IgniteHacks
 
-**Presentation Deck:**
+**Presentation Deck:** https://drive.google.com/drive/folders/1QYb1s-ag3etPXdVRfIZzSAKUwGYukNO8?usp=sharing
 
-**Youtube (Presentation):**
-
-**Youtube (Demo):**
+**Youtube:** https://youtu.be/xnAbiXPl09s
