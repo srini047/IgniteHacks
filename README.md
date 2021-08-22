@@ -17,3 +17,12 @@ Some sample ideas in the space are:
 ## Project Name: Disease Detector Bot
 
 ## Tools Used: Python
+
+## Screen Shots:
+
+## Important Links:
+
+**GitHub:**
+**Presentation Deck:**
+**Youtube (Presentation):**
+**Youtube (Demo):**
