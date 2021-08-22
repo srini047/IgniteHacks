@@ -1,2 +1,19 @@
 # IgniteHacls
-Repo contains code for the Ignite Hacks based on the Theme: Healthcare and Innovations
+
+### About: 
+Some sample ideas in the space are:
+
+> Gamifying personal healthcare apps
+
+> Health Tourism App
+
+> real time Ambulance Booking App
+
+> Support Remote Patient Examination
+
+> Study and Analyze patient records to help in Diagnosis
+<hr>
+
+## Project Name: Disease Detector Bot
+
+## Tools Used: Python
